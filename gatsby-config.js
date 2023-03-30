@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
+    siteUrl: `https://hyunwleeblogmain.gatsbyjs.io/`,
     title: `hyunwlee-blog`,
-    siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
 }
