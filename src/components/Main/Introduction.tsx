@@ -9,8 +9,8 @@ type IntroductionProps = {
 
 const Background = styled.div`
   width: 100%;
-  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
   color: #ffffff;
+  background-image: linear-gradient(60deg, #4169E1 0%, #485563 100%);
 `;
 
 const Wrapper = styled.div`
